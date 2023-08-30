@@ -1,1 +1,1 @@
-# results_thesis
+# Repository for the Master Thesis of Grégoire Pourtier
